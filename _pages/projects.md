@@ -42,5 +42,5 @@ We designed an interactive website that examined the factors contributing to var
 * 2nd place at the 2017 San Diego Big Data Hackathon
 * [Code](https://github.com/OrysyaStus/sandiegohearts.github.io), [Website](https://sandiegohearts.github.io/)<br />
 <a href="https://sandiegohearts.github.io/">
-<img src="https://github.com/OrysyaStus/OrysyaStus.github.io/blob/master/images/sanDiegoHearts.png" alt="Go to San Diego Hearts Website">
+<img src="https://github.com/sandiegohearts/sandiegohearts.github.io/blob/master/Images/coronyHeartDiseaseRate.png" alt="Go to San Diego Hearts Website">
 </a>
