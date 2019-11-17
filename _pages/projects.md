@@ -33,7 +33,7 @@ We extracted a sample of 40 littered Google Street View San Diego images for tra
 * Grand Prize Winners at San Diego 2017 Women's Hackathon
 * [Code](https://github.com/OrysyaStus/wastebotsunleashed.github.io), [Website](https://wastebotsunleashed.github.io/)<br />
 <a href="http://wastebotsunleashed.github.io/">
-<img src="https://github.com/wastebotsunleashed/wastebotsunleashed.github.io/blob/master/Images/dashboard_title.PNG" alt="Go to Waste Bots Unleashed Website">
+<img src="/images/wasteBotsUnleashed.PNG" alt="Go to Waste Bots Unleashed Website">
 </a>
 
 ## San Diego Hearts
@@ -42,5 +42,5 @@ We designed an interactive website https://sandiegohearts.github.io that examine
 * 2nd place at the 2017 San Diego Big Data Hackathon
 * [Code](https://github.com/OrysyaStus/sandiegohearts.github.io), [Website](https://sandiegohearts.github.io/)<br />
 <a href="https://sandiegohearts.github.io/">
-<img src="https://github.com/sandiegohearts/sandiegohearts.github.io/blob/master/Images/coronyHeartDiseaseRate.png" alt="Go to San Diego Hearts Website">
+<img src="/images/sanDiegoHearts.PNG" alt="Go to San Diego Hearts Website">
 </a>
