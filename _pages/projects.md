@@ -28,7 +28,7 @@ A collection of labeled fake news and real news (top credible news sources from 
 [![video](https://img.youtube.com/vi/misls7a1ePo/0.jpg)](https://www.youtube.com/watch?v=misls7a1ePo)
 
 ## Waste Bots Unleashed
-We extracted a sample of 40 littered Google Street View San Diego images for training and sample of a random sample of ~50,000 Google Street View images across San Diego, California for testing, processed the data, trained shape recognition and color recognition models, classified our images based on each model as littered/not littered, and designed an interactive website http://wastebotsunleashed.github.io for visualizing which zip codes in San Diego are least and most littered. The goal is to engage public and government officials in keeping San Diego beautiful. This is a prototype and shows the potential of using data science for public benefit.
+We extracted a sample of 40 littered Google Street View San Diego images for training and sample of a random sample of ~50,000 Google Street View images across San Diego, California for testing, processed the data, trained shape recognition and color recognition models, classified our images based on each model as littered/not littered, and designed an interactive website for visualizing which zip codes in San Diego are least and most littered. The goal is to engage public and government officials in keeping San Diego beautiful. This is a prototype and shows the potential of using data science for public benefit.
 
 * Grand Prize Winners at San Diego 2017 Women's Hackathon
 * [Code](https://github.com/OrysyaStus/wastebotsunleashed.github.io), [Website](https://wastebotsunleashed.github.io/)<br />
@@ -37,7 +37,7 @@ We extracted a sample of 40 littered Google Street View San Diego images for tra
 </a>
 
 ## San Diego Hearts
-We designed an interactive website https://sandiegohearts.github.io that examined the factors contributing to varying heart disease rates across San Diego to recommend ways to bring down the rates in the high risk areas. The goal is to help the potential users to make better decisions to run the campaigns and channelize the funds to the right regions.
+We designed an interactive website that examined the factors contributing to varying heart disease rates across San Diego to recommend ways to bring down the rates in the high risk areas. The goal is to help the potential users to make better decisions to run the campaigns and channelize the funds to the right regions.
 
 * 2nd place at the 2017 San Diego Big Data Hackathon
 * [Code](https://github.com/OrysyaStus/sandiegohearts.github.io), [Website](https://sandiegohearts.github.io/)<br />
