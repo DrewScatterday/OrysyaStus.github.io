@@ -11,7 +11,7 @@ This research has the potential to help transportation agencies, technology comp
 
 * Data Science for Social Good Fellow (University of Washington, Microsoft, City of Seattle)
 * [Code](https://github.com/OrysyaStus/TrafficCruising-DSSG2017), [Microsoft Press Release](https://news.microsoft.com/features/students-create-something-really-incredible-broader-aim-help-two-cross-border-cities-thrive-together/), [Seattle King 5 News Press Release](https://www.king5.com/article/news/local/seattle/one-third-of-seattle-drivers-cruising-for-parking-rides-study-finds/281-465290202)<br />
-<img src='/images/trafficCruising.PNG' width="500" height="340">
+<img src='/images/trafficCruising.PNG'>
 
 ## Basic Needs
 Our SMS-based application provides access to routing, emergency, mental health, sanitation, education, location, weather, and feedback services to vulnerable populations without wifi dependency. Basic Needs addresses immediate needs, connects vulnerable populations to their needs, and initiates a dialog between cities and vulnerable populations for social engagement and improvement.
