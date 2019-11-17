@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "Projects"
-    url: projects/
+    url: /projects/
         
   - title: "Publications"
-    url: publications/
+    url: /publications/
 
   - title: "Blog Posts"
-    url: year-archive/
+    url: /year-archive/
     
-  - title: "Resume/CV"
-    url: resumecv/
+  - title: "CV"
+    url: /cv/
     
   - title: "Fun"
-    url: fun/
+    url: /fun/
