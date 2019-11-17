@@ -21,7 +21,7 @@ Our SMS-based application provides access to routing, emergency, mental health, 
 <img src='/images/basicNeeds.jpg' width="500" height="340">
 
 
-[![video](https://img.youtube.com/vi/Rk4o2yFx9z0/0.jpg width="500" height="340")](https://www.youtube.com/watch?v=Rk4o2yFx9z0)
+[![video](https://img.youtube.com/vi/Rk4o2yFx9z0/0.jpg)](https://www.youtube.com/watch?v=Rk4o2yFx9z0)
 
 
 ## Breaking News
