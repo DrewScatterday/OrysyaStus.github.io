@@ -10,7 +10,7 @@ Vehicle cruising (individuals looking for parking and for-hire vehicles operatin
 This research has the potential to help transportation agencies, technology companies, and car companies predict the availability of parking and more accurately direct travelers with online, mobile, and connected tools, thereby reducing congestion impacts, emissions, and fuel costs.
 
 * Data Science for Social Good Fellow (University of Washington, Microsoft, City of Seattle)
-* [Code](https://github.com/OrysyaStus/TrafficCruising-DSSG2017), [Microsoft Press Release](https://news.microsoft.com/features/students-create-something-really-incredible-broader-aim-help-two-cross-border-cities-thrive-together/), [Seattle King 5 News Press Release](https://www.king5.com/article/news/local/seattle/one-third-of-seattle-drivers-cruising-for-parking-rides-study-finds/281-465290202)<br />
+* [Code](https://github.com/OrysyaStus/TrafficCruising-DSSG2017), [Write Up](http://www.dssgfellowship.org/wp-content/uploads/2017/09/bejcek.pdf), [Microsoft Press Release](https://news.microsoft.com/features/students-create-something-really-incredible-broader-aim-help-two-cross-border-cities-thrive-together/), [Seattle King 5 News Press Release](https://www.king5.com/article/news/local/seattle/one-third-of-seattle-drivers-cruising-for-parking-rides-study-finds/281-465290202)<br />
 <img src='/images/trafficCruising.PNG'>
 
 ## Basic Needs
