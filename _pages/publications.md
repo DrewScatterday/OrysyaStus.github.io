@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
 1\. Kanaga Arul Nambi Rajanab, Marwa Khater, Francesca Soncin, Donald Pizzo, Matteo Moretto-Zita, Jonathan Pham, <b>Orysya Stus</b>, Pooja Iyer, Veronique Tache, Louise C. Laurent, Mana M. Parast. [“Sirtuin1 is required for proper trophoblast differentiation and placental development in mice.”](https://www.ncbi.nlm.nih.gov/pubmed/29405961) Elsevier Placenta. February 2018.
 
 # Conferences
