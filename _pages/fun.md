@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Embroidering
-I like using various colors, materials (threads, seqins, beads, metal, beetle wings, feathers, etc.) to create my art. Embroidering helps me relax and stretches me creatively.
+I like using various colors, materials (threads, seqins, beads, metal, beetle wings, feathers, etc.) to create my art. Embroidering helps me relax and stretches me creatively. Here are some of my selected works:
 <img src='/images/firstProject.jpg'>
 <img src='/images/colorFul.jpg'>
 <img src='/images/flyingButterfly.jpg'>
