@@ -13,7 +13,7 @@ name                     : &name "Orysya Stus"
 description              : &description "Portfolio Site for Orysya Stus"
 url                      : https://orysyastus.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "OrysyaStus/OrysyaStus.github.io"
+repository               : OrysyaStus.github.io
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
