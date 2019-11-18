@@ -12,6 +12,6 @@ author_profile: true
 
 3\. Alokta Chakrabarti, Daniel Feger, Sarah Umber, <b>Orysya Stus</b>, Marianne Birkle, Oliver Siedentopf and Jan E. Ehlert. [“Abstract 1208: Analysis of the combinatorial antiproliferative effect of pan RAF inhibitor AZ-628 and MEK1-inhibitor AZD-6244 on a large panel of tumor cell lines.”](https://cancerres.aacrjournals.org/content/77/13_Supplement/1208.short) AACR Annual Meeting 2017. July 2017.
 
-2\. <b>Orysya Stus</b>. “Low-Cost Paper-Based Genetic Circuits for Detecting HIV.” SALK IPSEN Conference: Synthetic Biology. January 2016.
+2\. <b>Orysya Stus</b>. [“Low-Cost Paper-Based Genetic Circuits for Detecting HIV.”](https://www.youtube.com/watch?v=aHCbkR0uYs8) SALK IPSEN Conference: Synthetic Biology. January 2016.
 
 1\. <b>Orysya Stus</b>, Matteo Moretto-Zita, Mana M. Parast. “Signaling through Stat1 during human cytotrophoblast differentiation down the invasive pathway.” Society for Reproductive Investigation 62nd Annual Scientific Meeting. March 2015.
