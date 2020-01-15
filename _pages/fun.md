@@ -13,14 +13,6 @@ Aerial Silks
 * [Solo: Time](https://www.facebook.com/orysya.stus/videos/vb.100002554271531/1320641794697617/?type=2&video_source=user_video_tab), [Open Gym](https://www.youtube.com/watch?v=I2bZu2qQMtw&t=75s)
 
 ## Embroidering
-I like using various colors, materials (threads, seqins, beads, metal, beetle wings, feathers, etc.) to create my art. Embroidering helps me relax and stretches me creatively. Here are some of my selected works:
+Check out my additional work on my [Instagram](https://www.instagram.com/orysya.stus.art/).
 
-<img src='/images/firstProject.jpg'>
-
-<img src='/images/colorFul.jpg'>
-
-<img src='/images/flyingButterfly.jpg'>
-
-<img src='/images/metalButterfly.jpg'>
-
-<img src='/images/beetleWings.jpg'>
+<img src='/images/embroideryProjects.jpg'>
