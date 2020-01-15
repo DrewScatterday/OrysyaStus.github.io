@@ -13,6 +13,6 @@ Aerial Silks
 * [Solo: Time](https://www.facebook.com/orysya.stus/videos/vb.100002554271531/1320641794697617/?type=2&video_source=user_video_tab), [Open Gym](https://www.youtube.com/watch?v=I2bZu2qQMtw&t=75s)
 
 ## Embroidering
-Check out my additional work on my [Instagram](https://www.instagram.com/orysya.stus.art/).
+Check out my work on [Instagram](https://www.instagram.com/orysya.stus.art/). Feel free to follow me.
 
 <img src='/images/embroideryProjects.jpg'>
